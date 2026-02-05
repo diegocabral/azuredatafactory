@@ -1,0 +1,9 @@
+{
+	"name": "adf-dio-diego1",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d322544-4195-46f1-b235-faf312a7bde6",
+		"tenantId": "ea9b15f6-9426-4710-87f8-6c8ae335d32b"
+	}
+}
